@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Sismos Chile</title>
+	<style>
+		#popup{
+			width:500px;
+			height:580px;
+			text-align:center;
+		}
+		img{
+			width:150px;
+		}
+		#footer { 
+            position: fixed;
+            bottom: 0; 
+            width: 100%; 
+            height: 20px;
+			text-align: right;
+			margin-left:-20px;
+        }
+		#footer a{
+			color: black;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body>	
+	<div id="popup">	
+		<img src="logo.png" />
+		<iframe id="tabla"
+			title="tabla"
+			width="480"
+			height="480"
+			frameBorder="0"
+			scrolling="no"
+			src="http://www.sismologia.cl/links/tabla.html">
+		</iframe>
+	</div>
+	<div id="footer">
+		<a href="https://www.flow.cl/btn.php?token=2lbi11r" target="_blank">Donar</a>
+    </div>
+</body>
+</html>
