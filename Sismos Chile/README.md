@@ -12,6 +12,12 @@ https://chrome.google.com/webstore/detail/sismos-chile/mebpndedifeohfipfkhmheejo
 
 https://addons.mozilla.org/es/firefox/addon/sismos-chile/
 
+*Microsoft Edge*
+
+https://microsoftedge.microsoft.com/addons/detail/bclnheokaddiknmfdjalkeknkalimcle
+
 ![](https://lh3.googleusercontent.com/cCgACLHYq_STwpp6rfe2g45Q047OwIW_fcpnYpOXqjsp3SC2va3-NF1o3vrUVw9xfF4NQ_Ai=w640-h400-e365-rj-sc0x00ffffff)
 
 ![](https://lh3.googleusercontent.com/Gu5xdzaA5LWiH-uOVDf7VpT9IhwUaaxV95a8qQxrEd-RCnaMhp7Nh6FrNdxTIU_JxjkzHXEsnjI=w640-h400-e365-rj-sc0x00ffffff)
+
+
