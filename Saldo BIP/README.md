@@ -10,4 +10,8 @@ https://chrome.google.com/webstore/detail/saldo-bip/kpcbnhkoijhnnngcpjbeanklhche
 
 https://microsoftedge.microsoft.com/addons/detail/pdcoedchnjffekobicimokodpjadaekk
 
+*Firefox*
+
+https://addons.mozilla.org/es/firefox/addon/saldo-bip/
+
 ![](https://lh3.googleusercontent.com/ztNX7p3kCGv_dFXU06RsgHijmjRLhuIgeYBL7KGoHz2EVWA9BUAWkOI82LHvyu6-Lw51tXDj1hE=w640-h400-e365-rj-sc0x00ffffff)
