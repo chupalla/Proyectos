@@ -7,7 +7,7 @@ function getData() {
 	$.getJSON("https://mindicador.cl/api")
 		.done(function (data) {	
 			var fecha = data.fecha.split("T")[0].split("-");
-			$("#fecha").html($("#fecha").html() + ` ${fecha[2]}-${fecha[1]}-${fecha[0]}`);
+			$("#fecha").html(`Indicadores Economicos ${fecha[2]}-${fecha[1]}-${fecha[0]}`);
 			let	html = '';	
 			Object.keys(data).forEach(function(key) {
 				try {
