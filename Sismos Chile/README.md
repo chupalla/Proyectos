@@ -1,6 +1,6 @@
 # **SISMOS CHILE**
 
-Extensión de Google Chrome para mostrar los últimos sismos ocurridos en Chile.
+Extensión de navegadores para mostrar los últimos sismos ocurridos en Chile.
 
 Extrae la información directamente desde http://www.sismologia.cl/
 
