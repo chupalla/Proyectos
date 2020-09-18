@@ -1,6 +1,6 @@
 # **SALDO BIP**
 
-Extensión de Google Chrome para obtener el saldo de la tarjeta de transporte publico de Chile BIP
+Extensión de navegadores para obtener el saldo de la tarjeta de transporte publico de Chile BIP
 
 *Google Chrome*
 
